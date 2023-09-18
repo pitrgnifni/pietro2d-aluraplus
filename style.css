@@ -1,0 +1,13 @@
+.botao{
+    background-color: aqua;
+font-size: 20px;
+color: blue;
+border-radius: 50px;
+text-align: center;
+text-decoration: none;
+padding: 10px;
+}
+
+body{
+    text-align: center;
+}
